@@ -1,0 +1,89 @@
+<!doctype>
+<html>
+<head>
+  <meta charset="utf-8"></meta>
+  <link type="text/css" rel="stylesheet" href="index.css"/>
+</head>
+<body>
+<form action="lang.php" method="post">
+<div id="red">
+  <div><b>C Language</b></div>
+  <input type="radio" name="C" value="C_know" checked> i know<br>
+  <input type="radio" name="C" value="C_learn"> i want to learn<br>
+  <input type="radio" name="C" value="none"> none<br>
+</div>
+<div id="blue">
+  <div><b>Python</b></div>
+  <input type="radio" name="Python" value="Python_know" checked> i know<br>
+  <input type="radio" name="Python" value="Python_learn"> i want to learn<br>
+  <input type="radio" name="Python" value="none"> none<br>
+</div>
+<div id="green">
+  <div><b>Java</b></div>
+  <input type="radio" name="Java" value="Java_know" checked> i know<br>
+  <input type="radio" name="Java" value="Java_learn"> i want to learn<br>
+  <input type="radio" name="Java" value="none"> none<br>
+</div>
+<div id="red">
+  <div><b>Ruby</b></div>
+  <input type="radio" name="Ruby" value="Ruby_know" checked> i know<br>
+  <input type="radio" name="Ruby" value="Ruby_learn"> i want to learn<br>
+  <input type="radio" name="Ruby" value="none"> none<br>
+</div>
+<div id ="blue">
+  <div><b>HTML</b></div>
+  <input type="radio" name="HTML" value="HTML_know" checked> i know<br>
+  <input type="radio" name="HTML" value="HTML_learn"> i want to learn<br>
+  <input type="radio" name="HTML" value="none"> none<br>
+</div>
+<div id="green">
+  <div><b>Ruby on Rails</b></div>
+  <input type="radio" name="Rails" value="Rails_know" checked> i know<br>
+  <input type="radio" name="Rails" value="Rails_learn"> i want to learn<br>
+  <input type="radio" name="Rails" value="none"> none<br>
+</div>
+<div id="red">
+  <div><b>Javascript</b></div>
+  <input type="radio" name="Javascript" value="Javascript_know" checked> i know<br>
+  <input type="radio" name="Javascript" value="Javascript_learn"> i want to learn<br>
+  <input type="radio" name="Javascript" value="none"> none<br>
+</div>
+<div id="blue">
+  <div><b>PHP</b></div>
+  <input type="radio" name="PHP" value="PHP_know" checked> i know<br>
+  <input type="radio" name="PHP" value="PHP_learn"> i want to learn<br>
+  <input type="radio" name="PHP" value="none"> none<br>
+</div>
+<div id="green">
+  <div><b>C++</b></div>
+  <input type="radio" name="Cplus" value="Cplus_know" checked> i know<br>
+  <input type="radio" name="Cplus" value="Cplus_learn"> i want to learn<br>
+  <input type="radio" name="Cplus" value="none"> none<br>
+</div>
+<div id="red">
+  <div><b>C#</b></div>
+  <input type="radio" name="C2" value="C2_know" checked> i know<br>
+  <input type="radio" name="C2" value="C2_learn"> i want to learn<br>
+  <input type="radio" name="C2" value="none"> none<br>
+</div>
+<div id="blue">
+  <div><b>Objective C</b></div>
+  <input type="radio" name="Objective_C" value="Objective_C_know" checked> i know<br>
+  <input type="radio" name="Objective_C" value="Objective_C_learn"> i want to learn<br>
+  <input type="radio" name="Objective_C" value="none"> none<br>
+</div>
+<div id="green">
+  <div><b>SQL</b></div>
+  <input type="radio" name="SQL" value="SQL_know" checked> i know<br>
+  <input type="radio" name="SQL" value="SQL_learn"> i want to learn<br>
+  <input type="radio" name="SQL" value="none"> none<br>
+</div>
+<div id="blue">
+  <div><b>Swift</b></div>
+  <input type="radio" name="Swift" value="Swift_know" checked> i know<br>
+  <input type="radio" name="Swift" value="Swift_learn"> i want to learn<br>
+  <input type="radio" name="Swift" value="none"> none<br>
+</div>  <div id="button"><input type="submit" value="Submit"></div>
+</form>
+</body>
+</html>
